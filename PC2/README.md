@@ -285,4 +285,4 @@ Finalmente, la diferencia entre **Naive Bayes** y el **Clasificador de Votación
 
 - NLTK Documentation: [https://www.nltk.org/](https://www.nltk.org/)
 - Scikit-learn Documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
->>>>>>> Stashed changes
+
