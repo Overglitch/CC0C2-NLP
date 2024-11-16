@@ -165,7 +165,7 @@ self.embedding = GaussianEmbedding(num_embeddings=vocab_size, embedding_dim=embe
 
 ### Concepto
 
-En lugar de representar palabras como vectores determinísticos, los embeddings gaussianos representan cada palabra $ w $ como una distribución gaussiana multivariante $ \mathcal{N}(\boldsymbol{\mu}_w, \boldsymbol{\Sigma}_w) $. Esto permite capturar la incertidumbre y variabilidad semántica.
+En lugar de representar palabras como vectores determinísticos, los embeddings gaussianos representan cada palabra $w$ como una distribución gaussiana multivariante $\mathcal{N}(\boldsymbol{\mu}_w, \boldsymbol{\Sigma}_w)$. Esto permite capturar la incertidumbre y variabilidad semántica.
 
 ### Implementación
 
