@@ -423,7 +423,7 @@ The first of the of . the episode . . . of the shark . . the Missouri of the Mis
 ## Referencias
 
 - **Embeddings Gaussianos**:
-
+  - [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114).
   - [Gaussian Embeddings for Natural Language Processing](https://arxiv.org/abs/1412.6623)
 
 - **PyTorch Documentation**:
