@@ -165,7 +165,7 @@ self.embedding = GaussianEmbedding(num_embeddings=vocab_size, embedding_dim=embe
 
 ### Concepto
 
-En lugar de representar palabras como vectores determinísticos, los embeddings gaussianos representan cada palabra \( w \) como una distribución gaussiana multivariante \( \mathcal{N}(\boldsymbol{\mu}_w, \boldsymbol{\Sigma}_w) \). Esto permite capturar la incertidumbre y variabilidad semántica.
+En lugar de representar palabras como vectores determinísticos, los embeddings gaussianos representan cada palabra \[ w \] como una distribución gaussiana multivariante \[ \mathcal{N}(\boldsymbol{\mu}_w, \boldsymbol{\Sigma}_w) \]. Esto permite capturar la incertidumbre y variabilidad semántica.
 
 ### Implementación
 
@@ -189,10 +189,10 @@ $$
 
 Donde:
 
-- $ \boldsymbol{\mu} $ es la media,
-- $ \boldsymbol{\sigma} = \exp\left(0.5 \times \log \boldsymbol{\sigma}^2\right) $ es la desviación estándar,
-- $ \boldsymbol{\epsilon} \sim \mathcal{N}(0, \mathbf{I}) $ es ruido gaussiano,
-- $ \odot $ denota multiplicación elemento a elemento.
+- \[\boldsymbol{\mu}\] es la media,
+- \[\boldsymbol{\sigma} = \exp\left(0.5 \times \log \boldsymbol{\sigma}^2\right)\] es la desviación estándar,
+- \[\boldsymbol{\epsilon} \sim \mathcal{N}(0, \mathbf{I})\] es ruido gaussiano,
+- \[\odot\] denota multiplicación elemento a elemento.
 
 ### Cálculo de la Pérdida KL
 
