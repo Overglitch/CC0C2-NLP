@@ -189,10 +189,10 @@ $$
 
 Donde:
 
-- $ \boldsymbol{\mu} $ es la media,
-- $ \boldsymbol{\sigma} = \exp\left(0.5 \times \log \boldsymbol{\sigma}^2\right) $ es la desviación estándar,
-- $ \boldsymbol{\epsilon} \sim \mathcal{N}(0, \mathbf{I}) $ es ruido gaussiano,
-- $ \odot $ denota multiplicación elemento a elemento.
+- $\boldsymbol{\mu}$ es la media,
+- $\boldsymbol{\sigma} = \exp\left(0.5 \times \log \boldsymbol{\sigma}^2\right)$ es la desviación estándar,
+- $\boldsymbol{\epsilon} \sim \mathcal{N}(0, \mathbf{I})$ es ruido gaussiano,
+- $\odot$ denota multiplicación elemento a elemento.
 
 ### Cálculo de la Pérdida KL
 
@@ -226,7 +226,7 @@ class LSTMModel(nn.Module):
 
 ### Flujo de Datos
 
-1. **Embeddings Gaussianos**: Cada palabra se convierte en una distribución gaussiana y se muestrea para obtener $ \mathbf{z} $.
+1. **Embeddings Gaussianos**: Cada palabra se convierte en una distribución gaussiana y se muestrea para obtener $\mathbf{z}$.
 
 2. **LSTM**: Las secuencias de embeddings muestreados se pasan al LSTM.
 
@@ -251,7 +251,7 @@ $$
 \text{Pérdida Total} = \text{Pérdida NLL} + \beta \times \text{Pérdida KL}
 $$
 
-Donde $ \beta $ es un hiperparámetro que controla la contribución de la pérdida KL.
+Donde $\beta$ es un hiperparámetro que controla la contribución de la pérdida KL.
 
 ```python
 nll_loss = self.criterion(outputs, targets)
@@ -299,9 +299,9 @@ El modelo genera texto muestreando palabras secuencialmente, utilizando las dist
 
 2. **Muestreo Iterativo**:
 
-   - Se toman las últimas $ n $ palabras como entrada.
+   - Se toman las últimas $n$ palabras como entrada.
    - Se obtiene la distribución de probabilidad sobre el vocabulario.
-   - Se selecciona la siguiente palabra muestreando de las $ k $ palabras más probables (estrategia *top-k*).
+   - Se selecciona la siguiente palabra muestreando de las $k$ palabras más probables (estrategia *top-k*).
 
 3. **Actualización**: La palabra generada se añade al texto y el proceso se repite hasta alcanzar la longitud deseada.
 
