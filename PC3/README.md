@@ -167,6 +167,9 @@ self.embedding = GaussianEmbedding(num_embeddings=vocab_size, embedding_dim=embe
 
 En lugar de representar palabras como vectores determinísticos, los embeddings gaussianos representan cada palabra $w$ como una distribución gaussiana multivariante $\mathcal{N}(\boldsymbol{\mu}_w, \boldsymbol{\Sigma}_w)$. Esto permite capturar la incertidumbre y variabilidad semántica.
 
+![image](https://github.com/user-attachments/assets/b7578064-543f-45ad-9b66-99f8ce7d4ea5)
+
+
 ### Implementación
 
 En el código, los embeddings gaussianos se implementan mediante dos capas de embedding: una para la media y otra para la log-varianza.
@@ -182,6 +185,9 @@ self.log_var = nn.Embedding(num_embeddings, embedding_dim, padding_idx=padding_i
 ### Reparametrización
 
 Para muestrear de la distribución gaussiana y permitir el flujo de gradientes, utilizamos el truco de reparametrización:
+
+![image](https://github.com/user-attachments/assets/f2d8d699-4343-41bc-87bd-4baae33a6561)
+
 
 $$
 \mathbf{z} = \boldsymbol{\mu} + \boldsymbol{\sigma} \odot \boldsymbol{\epsilon}
