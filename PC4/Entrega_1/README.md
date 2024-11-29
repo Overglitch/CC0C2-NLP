@@ -148,7 +148,7 @@ class Preprocessor:
 El **TF-IDF** (Term Frequency-Inverse Document Frequency) es una medida que evalúa la relevancia de una palabra en un
 documento dentro de un conjunto de documentos.
 
-La fórmula de TF-IDF para una palabra $ t $ en un documento $ d $ es:
+La fórmula de TF-IDF para una palabra $t$ en un documento $d$ es:
 
 $$
 \text{TF-IDF}(t, d) = \text{TF}(t, d) \times \text{IDF}(t)
@@ -156,15 +156,15 @@ $$
 
 Donde:
 
-- $ \text{TF}(t, d) $: Frecuencia del término $ t $ en el documento $ d $.
-- $ \text{IDF}(t) $: Inverso de la frecuencia de documentos que contienen $ t $:
+- $\text{TF}(t, d)$: Frecuencia del término $t$ en el documento $d$.
+- $\text{IDF}(t)$: Inverso de la frecuencia de documentos que contienen $t$:
 
 $$
 \text{IDF}(t) = \log\left(\frac{N}{n_t}\right)
 $$
 
-- $ N $: Número total de documentos.
-- $ n_t $: Número de documentos que contienen el término $ t $.
+- $N$: Número total de documentos.
+- $n_t$: Número de documentos que contienen el término $t$.
 
 **Implementación:**
 
