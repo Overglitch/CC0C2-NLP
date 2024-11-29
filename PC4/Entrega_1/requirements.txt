@@ -1,0 +1,9 @@
+PyMuPDF
+nltk
+numpy
+scikit-learn
+networkx
+bert-extractive-summarizer
+torch
+transformers
+rouge-score
