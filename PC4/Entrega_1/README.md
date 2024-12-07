@@ -6,6 +6,8 @@
 |------------------------------|-----------|
 | Murillo Dominguez, Paul Hans | 20193507J |
 
+---
+
 ## **Tabla de Contenidos**
 
 1. [Introducción](#introducción)

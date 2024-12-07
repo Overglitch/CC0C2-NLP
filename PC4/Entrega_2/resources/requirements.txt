@@ -1,0 +1,7 @@
+nltk
+numpy
+torch
+transformers
+rouge-score
+evaluate
+datasets
