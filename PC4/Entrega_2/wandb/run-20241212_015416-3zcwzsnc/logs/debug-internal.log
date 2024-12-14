@@ -1,0 +1,21 @@
+{"time":"2024-12-12T01:54:16.1434441-05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-12T01:54:16.1434441-05:00","level":"INFO","msg":"created symlink","path":"D:\\University\\2024-2\\Natural Language Processing\\PC1-CC0C2\\PC4\\Entrega_2\\wandb\\run-20241212_015416-3zcwzsnc\\logs\\debug-core.log"}
+{"time":"2024-12-12T01:54:16.2508139-05:00","level":"INFO","msg":"created new stream","id":"3zcwzsnc"}
+{"time":"2024-12-12T01:54:16.2508139-05:00","level":"INFO","msg":"stream: started","id":"3zcwzsnc"}
+{"time":"2024-12-12T01:54:16.2508139-05:00","level":"INFO","msg":"handler: started","stream_id":"3zcwzsnc"}
+{"time":"2024-12-12T01:54:16.2508139-05:00","level":"INFO","msg":"sender: started","stream_id":"3zcwzsnc"}
+{"time":"2024-12-12T01:54:16.2508139-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"3zcwzsnc"}
+{"time":"2024-12-12T01:54:16.666758-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-12T01:54:22.7030329-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-12T01:54:31.9403439-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-12T01:54:52.8323716-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-12T01:55:56.6675039-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-12T01:55:56.6685449-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-12T01:55:57.0325556-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-12T01:56:02.6775394-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-12T01:56:06.0593677-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-12T02:02:06.8134829-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-12T02:03:48.1279144-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-12T02:08:38.2628795-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-12T04:43:42.0498271-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/over/FineTune-T5-Abstract-Summary-CNN-DailyMail/3zcwzsnc/file_stream"}
+{"time":"2024-12-12T04:43:42.0498271-05:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/over/FineTune-T5-Abstract-Summary-CNN-DailyMail/3zcwzsnc/file_stream: {\"error\":\"run FineTune-T5-Abstract-Summary-CNN-DailyMail/3zcwzsnc not found while streaming file\"}"}

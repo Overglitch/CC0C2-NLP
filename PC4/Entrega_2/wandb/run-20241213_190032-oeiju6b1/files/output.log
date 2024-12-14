@@ -1,0 +1,31 @@
+[32m2024-12-13 19:00:33 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-13 19:00:37 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-13 19:00:37 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-13 19:00:45 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-13 19:00:45 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-13 19:01:06 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-13 19:01:06 - INFO: ⚙️ Configurando entrenamiento...[0m
+[32m2024-12-13 19:01:07 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-13 19:01:07 - INFO: 🚦 Iniciando el entrenamiento...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000017EF2D4CD90&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+[32m2024-12-13 19:02:20 - INFO: ✨ Configuración de logging completada.[0m
+[32m2024-12-13 19:02:20 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-13 19:03:24 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-13 19:03:24 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-13 19:03:29 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-13 19:03:29 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-13 19:03:51 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-13 19:03:51 - INFO: ⚙️ Configurando entrenamiento...[0m
+[32m2024-12-13 19:03:52 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-13 19:03:52 - INFO: 🚦 Iniciando el entrenamiento...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000017EF2D4EEC0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>

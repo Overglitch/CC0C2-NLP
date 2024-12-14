@@ -1,0 +1,16 @@
+[32m2024-12-13 19:15:54 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-13 19:15:57 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-13 19:15:57 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-13 19:16:04 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-13 19:16:04 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-13 19:16:20 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-13 19:16:20 - INFO: ⚙️ Configurando entrenamiento...[0m
+[32m2024-12-13 19:16:20 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-13 19:16:20 - INFO: 🚦 Iniciando el entrenamiento...[0m
+[32m2024-12-13 19:38:07 - INFO: Using default tokenizer.[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000021C5D989A50&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>

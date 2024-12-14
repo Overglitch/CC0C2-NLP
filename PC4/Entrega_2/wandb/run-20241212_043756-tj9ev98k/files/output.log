@@ -1,0 +1,125 @@
+[32m2024-12-12 04:37:57 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-12 04:37:58 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-12 04:37:58 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-12 04:38:04 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-12 04:38:04 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-12 04:38:08 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-12 04:38:08 - INFO: ⚙️ Configurando entrenamiento...[0m
+C:\Users\Overglitch\AppData\Local\Temp\ipykernel_21360\391920254.py:136: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
+  self.trainer = Seq2SeqTrainer(
+[32m2024-12-12 04:38:09 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-12 04:38:09 - INFO: 🚦 Iniciando el entrenamiento...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E1CED1BEE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+[32m2024-12-12 04:42:01 - INFO: ✨ Configuración de logging completada.[0m
+[32m2024-12-12 04:42:01 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-12 04:42:02 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-12 04:42:02 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-12 04:42:08 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-12 04:42:08 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-12 04:42:12 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-12 04:42:12 - INFO: ⚙️ Configurando entrenamiento...[0m
+[32m2024-12-12 04:42:12 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-12 04:42:12 - INFO: 🚦 Iniciando el entrenamiento...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E3C7FD2200&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E3C7FD2200&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E3C7FD2200&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+[32m2024-12-12 04:47:27 - INFO: ✨ Configuración de logging completada.[0m
+[32m2024-12-12 04:47:27 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-12 04:47:28 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-12 04:47:28 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-12 04:47:33 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-12 04:47:33 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-12 04:47:37 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-12 04:47:37 - INFO: ⚙️ Configurando entrenamiento...[0m
+[32m2024-12-12 04:47:38 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-12 04:47:38 - INFO: 🚦 Iniciando el entrenamiento...[0m
+[32m2024-12-12 04:49:49 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 04:51:30 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 04:53:53 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 04:56:41 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 04:58:59 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 05:00:34 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 05:02:09 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 05:03:49 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 05:05:31 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 05:07:13 - INFO: Using default tokenizer.[0m
+[32m2024-12-12 05:07:14 - INFO: ✅ Entrenamiento completado.[0m
+[32m2024-12-12 05:07:14 - INFO: 📤 Guardando modelo en Hugging Face Hub...[0m
+[33m2024-12-12 05:07:30 - WARNING: No files have been modified since last commit. Skipping to prevent empty commit.[0m
+[32m2024-12-12 05:07:30 - INFO: ✅ Modelo y tokenizer guardados.[0m
+[32m2024-12-12 05:07:30 - INFO: ✏️ Generando resumen...[0m
+[32m2024-12-12 05:07:30 - INFO: 📰 Resumen generado:[0m
+[32m2024-12-12 05:07:30 - INFO: Aqu va un texto de prueba.[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x000001E3CA86EB30&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="test_article" type="str" qualifier="builtins" value="Aqu%C3%AD va un texto de prueba." />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>

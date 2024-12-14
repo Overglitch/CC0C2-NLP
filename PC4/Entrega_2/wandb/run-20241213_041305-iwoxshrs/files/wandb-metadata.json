@@ -1,0 +1,41 @@
+{
+  "os": "Windows-10-10.0.22621-SP0",
+  "python": "CPython 3.10.11",
+  "startedAt": "2024-12-13T09:13:05.665167Z",
+  "program": "PC4/Entrega_2/abstractive-pegasus.ipynb",
+  "git": {
+    "remote": "https://github.com/Overglitch/CC0C2-NLP.git",
+    "commit": "32fbb457cfedf30f6d4b1e0c441c42ac246f27cd"
+  },
+  "email": "paul.murillo.d@uni.pe",
+  "root": "D:\\University\\2024-2\\Natural Language Processing\\PC1-CC0C2\\PC4\\Entrega_2",
+  "host": "Overhaul",
+  "username": "Overglitch",
+  "executable": "C:\\Users\\Overglitch\\PycharmProjects\\Tesis\\.venv\\Scripts\\python.exe",
+  "cpu_count": 12,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3060",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "536870907904",
+      "used": "164798902272"
+    }
+  },
+  "memory": {
+    "total": "34160181248"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 20
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3060",
+      "memoryTotal": "12884901888",
+      "cudaCores": 3584,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.7"
+}

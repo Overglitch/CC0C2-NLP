@@ -1,0 +1,9 @@
+{"time":"2024-12-13T19:15:54.0936431-05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-13T19:15:54.0936431-05:00","level":"INFO","msg":"created symlink","path":"D:\\University\\2024-2\\Natural Language Processing\\PC1-CC0C2\\PC4\\Entrega_2\\wandb\\run-20241213_191554-oggcmw4y\\logs\\debug-core.log"}
+{"time":"2024-12-13T19:15:54.2016097-05:00","level":"INFO","msg":"created new stream","id":"oggcmw4y"}
+{"time":"2024-12-13T19:15:54.2016097-05:00","level":"INFO","msg":"stream: started","id":"oggcmw4y"}
+{"time":"2024-12-13T19:15:54.2016097-05:00","level":"INFO","msg":"handler: started","stream_id":"oggcmw4y"}
+{"time":"2024-12-13T19:15:54.2016097-05:00","level":"INFO","msg":"sender: started","stream_id":"oggcmw4y"}
+{"time":"2024-12-13T19:15:54.2016097-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"oggcmw4y"}
+{"time":"2024-12-13T19:15:54.6116958-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-13T19:55:10.0242937-05:00","level":"INFO","msg":"Pausing system monitor"}

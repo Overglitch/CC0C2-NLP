@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PC4/Entrega_3/document-summarizer" vcs="Git" />
   </component>
 </project>

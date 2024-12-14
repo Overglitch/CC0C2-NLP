@@ -1,4 +1,4 @@
-### **Proyecto 8: Crear una aplicación de resumen de documentos largos con un enfoque extractivo y abstractive en LLM**
+### **Proyecto 8: Crear una  en LLM**
 
 **Descripción detallada:**
 

@@ -1,0 +1,71 @@
+[32m2024-12-13 19:56:41 - INFO: 🚀 Weights & Biases inicializado.[0m
+[32m2024-12-13 19:56:45 - INFO: 🤖 Modelo y tokenizer cargados.[0m
+[32m2024-12-13 19:56:45 - INFO: 📚 Cargando dataset...[0m
+[32m2024-12-13 19:56:52 - INFO: 🗂️ Datasets de entrenamiento y validación preparados.[0m
+[32m2024-12-13 19:56:52 - INFO: 🔄 Preprocesando datasets...[0m
+[32m2024-12-13 19:57:11 - INFO: 📝 Preprocesamiento completado.[0m
+[32m2024-12-13 19:57:11 - INFO: ⚙️ Configurando entrenamiento...[0m
+[32m2024-12-13 19:57:12 - INFO: 🏋️‍♂️ Entrenador configurado.[0m
+[32m2024-12-13 19:57:12 - INFO: 🚦 Iniciando el entrenamiento...[0m
+[32m2024-12-13 20:19:35 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 20:42:11 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 21:03:02 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 21:26:40 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 21:47:49 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 22:08:57 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 22:29:56 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 22:51:05 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 23:12:07 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 23:33:16 - INFO: Using default tokenizer.[0m
+[32m2024-12-13 23:33:17 - INFO: ✅ Entrenamiento completado.[0m
+[32m2024-12-13 23:33:17 - INFO: 📤 Guardando modelo en Hugging Face Hub...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+[32m2024-12-13 23:36:35 - INFO: 📤 Guardando modelo en Hugging Face Hub...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+[32m2024-12-13 23:38:59 - INFO: 📤 Guardando modelo en Hugging Face Hub...[0m
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
+<xml><var name="_dummy_ipython_val"  />
+<var name="_dummy_special_var"  />
+<var name="fine_tuner" type="FineTuner" qualifier="__main__" value="%3C__main__.FineTuner object at 0x0000026AB8B64EE0&gt;" isContainer="True" />
+<var name="hf_token" type="str" qualifier="builtins" value="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" />
+<var name="wandb_token" type="str" qualifier="builtins" value="22aa2ac85315f4d6a7221cdcfd57fa25acc3eb06" />
+</xml>
