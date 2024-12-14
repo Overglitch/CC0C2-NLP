@@ -77,7 +77,7 @@ def summarize(input_text, file, summary_type, method, num_sentences, model_name,
 
 # Interfaz dinámica
 with gr.Blocks() as interface:
-    gr.Markdown("# Demo: Generador de Resúmenes Inteligente")
+    gr.Markdown("# Aplicación Híbrida para Resumir Documentos de Forma Extractiva y Abstractiva")
 
     # Entrada de texto o archivo
     with gr.Row():
